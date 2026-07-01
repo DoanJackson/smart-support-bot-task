@@ -1,4 +1,4 @@
-# OptiBot Scraper
+# Bot Scraper
 
 A web scraper and document indexer for OptiSigns Knowledge Base. It extracts support articles via the Zendesk API, converts them into Markdown, and uploads them to a Chroma Vector Database for AI Assistants.
 
