@@ -1,0 +1,25 @@
+# Environments
+.env
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Data and Vector Store
+data/
+chroma_db/
+articles/
+
+# Testing
+api_test.json
+job_log.txt
+picture/
+OptiSigns_Take-Home_Test_Overview.md
+OptiSigns_Take-Home_Test_Updated.pdf
+.vscode/
+.agents/
+docs/
+scraper.py
+vector_store_setup.py
