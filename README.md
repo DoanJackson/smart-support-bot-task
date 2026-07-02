@@ -65,7 +65,7 @@ To run the script as a daily task, it has been dockerized. It uses a Volume Moun
 
 ## Logs & Proof of Concept
 
-- **Job Logs**: [Insert Log URL / Artifact URL here]
+- **Job Logs**: [https://gist.github.com/DoanJackson/ca5a931ec3b504cf67d339027225a477](https://gist.github.com/DoanJackson/ca5a931ec3b504cf67d339027225a477)
 - **Sanity Check**: Assistant correctly answered "How do I add a YouTube video?".
   
   **OptiBot's Response:**
@@ -78,4 +78,4 @@ To run the script as a daily task, it has been dockerized. It uses a Volume Moun
   > 
   > Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns
 
-- **Screenshots**: (See provided screenshots in `picture/Sanity_check_response.png` for evidence of Assistant response and citations).
+- **Screenshots**: (See provided screenshots in [`/picture/Sanity_check_response.png`](/picture/Sanity_check_response.png) for evidence of Assistant response and citations).
